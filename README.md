@@ -111,3 +111,5 @@ HTML/CSS     -   UI structure and styling
 <img width="567" height="348" alt="Image" src="https://github.com/user-attachments/assets/55d927c3-1a8b-465b-81d1-1f34e4d7bb4a" />
 
 ## dashboardReport
+
+<img width="1920" height="906" alt="Image" src="https://github.com/user-attachments/assets/d7f96117-ec50-4037-8ef8-5530d2f9ea34" />
