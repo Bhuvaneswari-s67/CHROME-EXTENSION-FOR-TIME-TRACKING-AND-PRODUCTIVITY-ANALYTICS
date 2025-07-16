@@ -104,3 +104,10 @@ Spring Boot  -   REST API and data persistence
 MySQL        -   Time entry database
 Chart.js     -   Dashboard charts
 HTML/CSS     -   UI structure and styling
+
+
+## POPUP
+
+<img width="567" height="348" alt="Image" src="https://github.com/user-attachments/assets/55d927c3-1a8b-465b-81d1-1f34e4d7bb4a" />
+
+## dashboardReport
