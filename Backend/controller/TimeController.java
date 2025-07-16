@@ -34,7 +34,7 @@ public class TimeController {
         List<Map<String, Object>> result = new ArrayList<>();
 
         for (Object[] row : raw) {
-            Date sqlDate = (Date) row[0]; // ✅ FIX: cast to java.sql.Date
+            Date sqlDate = (Date) row[0]; 
             String dateStr = sqlDate.toLocalDate().toString();
             long minutes = ((Number) row[1]).longValue() / 60000;
 
